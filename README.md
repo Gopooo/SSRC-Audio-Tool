@@ -72,6 +72,12 @@ Special thanks as well to **Haz** for the **Skylanders SuperChargers Racing Extr
 
 Thanks to everyone in the Skylanders reverse-engineering server and modding communities who has documented the game formats, experimented with the files, and shared their findings.
 
+## Rebuilding the Modified Wii ISO
+
+After you finish replacing the audio and have copied the modified `Streams2.dat` back into the extracted game files, you need to rebuild the Wii ISO before testing it.
+
+You can use **Wiimms ISO Tools (WIT)** again to rebuild the extracted game directory into a new ISO.
+
 ## Disclaimer
 
 This is an unofficial community-made modding tool and is not affiliated with or endorsed by Activision, Toys for Bob, Beenox, Nintendo, or Audiokinetic.
