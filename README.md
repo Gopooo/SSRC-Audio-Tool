@@ -52,7 +52,7 @@ Special thanks to **maff** from the **Skylanders Reverse Engineering Discord ser
 
 Special thanks as well to **Haz** for the **Skylanders SuperChargers Racing Extractor**, shared in the **Beenox Goliath Modding server**. That extractor and its approach to the game's files were very useful references while investigating SuperChargers Racing's data and building this audio workflow.
 
-Thanks to everyone in the Skylanders reverse-engineering and modding communities who has documented the game formats, experimented with the files, and shared their findings.
+Thanks to everyone in the Skylanders reverse-engineering and modding discord servers who has documented the game formats, experimented with the files, and shared their findings.
 
 ## Disclaimer
 
