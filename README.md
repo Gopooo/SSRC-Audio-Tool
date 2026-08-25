@@ -1,6 +1,6 @@
-# Skylanders SuperChargers Racing Audio Tool
+# Skylanders Superchargers Racing Audio Tool
 
-A community modding tool for **Skylanders SuperChargers Racing** that makes streamed audio modding easier.
+A community modding tool for **Skylanders Superchargers Racing** that makes streamed audio modding easier.
 
 The tool provides a simple graphical interface for extracting, identifying, organizing, and replacing audio stored in `Streams2.dat`.
 
