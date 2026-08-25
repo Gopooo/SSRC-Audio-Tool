@@ -66,7 +66,7 @@ After a successful replacement, the newly modified Streams2 file automatically b
 
 This project would have been much harder to develop without the existing work and research of the Skylanders modding community.
 
-Special thanks to **maff** from the **Skylanders Reverse Engineering Discord server**. Their **Cogwheel** tool was extremely helpful for understanding and inspecting the game's PKZ resource structure, including chunks, resource data, and the way game assets are stored.
+Special thanks to **maff** [spyrosadventure](https://github.com/spyrosadventure) from the **Skylanders Reverse Engineering Discord server**. His **Cogwheel** tool was extremely helpful for understanding and inspecting the game's PKZ resource structure, including chunks, resource data, and the way game assets are stored.
 
 Special thanks as well to **Haz** for the **Skylanders SuperChargers Racing Extractor**, shared in the **Beenox Goliath Modding server**. That extractor and its approach to the game's files were very useful references while investigating SuperChargers Racing's data and building this audio workflow.
 
