@@ -1,6 +1,6 @@
 # Skylanders SuperChargers Racing Audio Tool
 
-A community modding tool for **Skylanders SuperChargers Racing** (WII ONLY) that makes streamed audio modding easier.
+A community modding tool for **Skylanders SuperChargers Racing** that makes streamed audio modding easier.
 
 The tool provides a simple graphical interface for extracting, identifying, organizing, and replacing audio stored in `Streams2.dat`.
 
@@ -16,6 +16,24 @@ The tool provides a simple graphical interface for extracting, identifying, orga
 - Update Wwise duration metadata so replacement audio can be longer than the original.
 - Repack `Streams2.dat` without modifying the original source file.
 - Chain multiple audio replacements in the same modified `Streams2.dat`.
+
+## Requirements
+
+- **Windows**
+- **Python 3.10 or newer** recommended
+- **Tkinter** for the graphical interface
+
+No third-party Python packages are required. The tool uses only the Python standard library.
+
+If Python was installed from the official Windows installer at python.org, Tkinter is normally included automatically.
+
+You can still include the provided `requirements.txt` in the repository, but `pip install -r requirements.txt` does not need to install anything.
+
+## Preparing the Game Files
+
+Before using the tool, you need to extract the game files from your **Skylanders SuperChargers Racing Wii ISO**.
+
+A recommended method is to use **Wiimms ISO Tools (WIT)** to extract the ISO contents.
 
 ## Usage
 
@@ -52,7 +70,7 @@ Special thanks to **maff** from the **Skylanders Reverse Engineering Discord ser
 
 Special thanks as well to **Haz** for the **Skylanders SuperChargers Racing Extractor**, shared in the **Beenox Goliath Modding server**. That extractor and its approach to the game's files were very useful references while investigating SuperChargers Racing's data and building this audio workflow.
 
-Thanks to everyone in the Skylanders reverse-engineering and modding discord servers who has documented the game formats, experimented with the files, and shared their findings.
+Thanks to everyone in the Skylanders reverse-engineering server and modding communities who has documented the game formats, experimented with the files, and shared their findings.
 
 ## Disclaimer
 
